@@ -4,9 +4,9 @@
  *
  * return :0 (succsess)
  */
-int main(void)/*momomo*/
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
+	puts("Programming is like building a multilingual puzzle");
 		return (0);
 		
 }
